@@ -4,6 +4,8 @@
 
 Travis L. Seymour, PhD
 
+---
+
 **NOTE**: This tool is in progress. Currently (version 0.2.0), it only has 2 functions:
 
 - **shrink**: Try to reduce the size of a PDF or folder of PDFs
