@@ -34,7 +34,7 @@ From Source
 pipx install .
 ```
 
-**From Github**
+From Github
 
 ```bash
 pipx install git+"https://github.com/travisseymour/pdftool.git" --verbose
