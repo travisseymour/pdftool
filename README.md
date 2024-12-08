@@ -22,6 +22,8 @@ From Source
 uv tool install .
 ```
 
+From Github
+
 ```bash
 uv tool install git+"https://github.com/travisseymour/pdftool.git"
 ```
