@@ -1,4 +1,4 @@
-# PDF Shrink
+# PDF Tool
 
 ### A command-line tool to shrink PDF files.
 
@@ -23,7 +23,7 @@ uv tool install .
 ```
 
 ```bash
-uv tool install git+"https://github.com/travisseymour/pdfshrink.git"
+uv tool install git+"https://github.com/travisseymour/pdftool.git"
 ```
 
 ### Installation with [PipX](https://pipx.pypa.io/stable/)
@@ -37,7 +37,7 @@ pipx install .
 **From Github**
 
 ```bash
-pipx install git+"https://github.com/travisseymour/pdfshrink.git" --verbose
+pipx install git+"https://github.com/travisseymour/pdftool.git" --verbose
 ```
 
 ---
