@@ -2,12 +2,12 @@
 
 ### A command-line tool to shrink PDF files.
 
-NOTE: This tool is in progress. Currently (version 0.2.0), it only has 2 functions:
+Travis L. Seymour, PhD
+
+**NOTE**: This tool is in progress. Currently (version 0.2.0), it only has 2 functions:
 
 - **shrink**: Try to reduce the size of a PDF or folder of PDFs
 - **watermark**: Add a watermark to a PDF or a folder of PDFs
-
-Travis L. Seymour, PhD
 
 ---
 
