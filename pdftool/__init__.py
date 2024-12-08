@@ -1,0 +1,3 @@
+"""
+PDF Shrink package.
+"""

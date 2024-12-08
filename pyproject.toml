@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdftool"
+version = "0.2.0"
+description = "A command-line tool for manipulating PDF files."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Travis L. Seymour, PhD", email = "nogard@ucsc.edu" }]
+dependencies = ["typer", "pikepdf", "reportlab", "rich"]
+requires-python = ">=3.11"
+
+[tool.setuptools]
+include-package-data = true
+
+[project.scripts]
+pdftool = "pdftool.main:app"
